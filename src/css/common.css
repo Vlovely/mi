@@ -1,0 +1,9 @@
+*{margin: 0;padding: 0;}
+ul li{list-style: none}
+a{text-decoration: none}
+button,input,img{outline: none;border: none;}
+#app{font-size: .22rem;text-align: center;font-family: Helvetica Neue,Tahoma,Arial,PingFangSC-Regular,Hiragino Sans GB,Microsoft Yahei,sans-serif;}
+html,body,#app,.cate,.cart{
+    width: 100%;
+    height: 100%;
+}
